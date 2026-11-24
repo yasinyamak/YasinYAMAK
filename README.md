@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a full-stack software developer who's in love with his wife. ❤️
 <!--
 **yasinyamak/YasinYAMAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
